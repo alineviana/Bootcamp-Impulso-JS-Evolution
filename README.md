@@ -1,9 +1,9 @@
-# bootcamp-impulso-js-evolution
+
 <h1> 
 	🚧 🚀 Em construção...  🚧
 </h1>
 
-<h1 align=center> Impulso JavaScript Evolution</h1>
+<h1 align=center> Bootcamp Impulso JavaScript Evolution</h1>
 
 <p align=center>
 <img src="./img/bootcamp-impulso.png" alt="logo" width=150px align="middle">
