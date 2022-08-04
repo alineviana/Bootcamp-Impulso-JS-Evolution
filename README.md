@@ -18,7 +18,7 @@ Bootcamp promovido pela DIO e pela Impulso com foco na evolução Fullstack.
 
 - ✅ Módulo I - Princípios de Desenvolvimento de Software
 - ✅ Módulo II - Fundamentos Web com HTML e CSS
-- <img src="https://img.shields.io/badge/status-em%20andamento-green"> ✅ Módulo III - Dominando a Linguagem de Programação JavaScript
+- ✅ Módulo III - Dominando a Linguagem de Programação JavaScript
 - <img src="https://img.shields.io/badge/status-em%20andamento-green"> ✅ Módulo IV - Front-end: Desenvolvimento Web com React
 - <img src="https://img.shields.io/badge/status-em%20andamento-green"> ✅ Módulo V - Banco de Dados Relacionais(SQL) e Não Relacionais(NoSQL)
 - <img src="https://img.shields.io/badge/status-em%20andamento-green"> ✅ Módulo VI - Back-end: Criando API com Node.Js
